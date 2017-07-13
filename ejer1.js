@@ -1,0 +1,1 @@
+var mensaje = document.getElementById('Hola Bienvenidos a Git y Githup!!!');
